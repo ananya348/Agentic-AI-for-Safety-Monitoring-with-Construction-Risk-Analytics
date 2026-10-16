@@ -1,6 +1,7 @@
 # 🏗️ Safety Monitoring with Construction Risk Analytics
 
 ## Agentic Construction Risk Intelligence Platform
+🌐 Live Deployment: https://agentic-ai-for-safety-monitoring-with-construction-risk-analyt.streamlit.app/
 
 Construction-AI is an AI-powered construction risk intelligence platform designed to identify, analyze, and communicate risks across construction projects.
 
